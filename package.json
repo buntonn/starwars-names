@@ -1,0 +1,27 @@
+{
+  "name": "startwars-names",
+  "version": "1.0.0",
+  "description": "Get a random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buntonn/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Nick Bunton <buntonn@gmail.com> (http://nucube.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buntonn/starwars-names/issues"
+  },
+  "homepage": "https://github.com/buntonn/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
